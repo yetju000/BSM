@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BSM</string>
+    <string name="lista_notatek">Lista notatek</string>
+    <string name="button">Button</string>
+    <string name="zapisz">Zapisz</string>
+    <string name="textview">TextView</string>
+</resources>
